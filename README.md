@@ -1,2 +1,2 @@
-# mini_amazon
+# AmaStore
 Mini Amazon clone
